@@ -1,7 +1,7 @@
 # Olá, bem-vindo a minha página do github-pages. 
 
 
-Meu nome é Ariel Breno Nogueira Machado, trabalho na área pública e atualmente estou trabalhando no .
+Meu nome é Ariel Breno Nogueira Machado, trabalho na área pública e atualmente estou estudando no Uniceub.
 
 Tenho buscado me aperfeiçoar cada dia mais em projetos voltados para área da tecnologia, e estou em busca de novas oportunidades para colaborar, aprender e contribuir com equipes inovadoras.
 
